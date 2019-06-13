@@ -578,6 +578,8 @@ vendor/lib64/libqrtr.so
 vendor/lib/qcrild_librilutils.so
 vendor/lib64/qcrild_librilutils.so
 vendor/lib64/libadropbox.so
+vendor/bin/ATFWD-daemon
+vendor/lib64/vendor.qti.hardware.radio.atcmdfwd@1.0.so
 
 # Radio - IMS
 -priv-app/ims/ims.apk|eef47c0b6f250e7f96e7155d84274b1c83940d8f
