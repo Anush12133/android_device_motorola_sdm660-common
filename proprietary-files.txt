@@ -678,3 +678,11 @@ vendor/bin/time_daemon
 
 # Wi-Fi
 vendor/bin/cnss-daemon
+
+#MISC
+vendor/lib/android.hardware.broadcastradio@1.0.so
+vendor/lib/android.hardware.radio@1.1.so
+vendor/lib/android.hardware.radio@1.2.so
+vendor/lib/android.hardware.radio.config@1.0.so
+vendor/lib64/libbrillo-stream.so
+vendor/lib64/libbrillo-binder.so
